@@ -1,0 +1,7 @@
+{
+  "url": "https://sample.example.invalid/",
+  "headers": {
+    "Content-Type": "text/html; charset=utf-8",
+    "Content-Security-Policy-Report-Only": "default-src 'none'"
+  }
+}
