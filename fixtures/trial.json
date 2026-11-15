@@ -1,0 +1,22 @@
+{
+  "sources": [
+    {
+      "file": "trial.txt",
+      "id": "log",
+      "origin": "trial-log",
+      "revision": "v1"
+    }
+  ],
+  "claims": [
+    {
+      "id": "timing",
+      "text": "The trial began at noon",
+      "citations": [
+        {
+          "source": "log",
+          "quote": "The synthetic trial began at noon."
+        }
+      ]
+    }
+  ]
+}

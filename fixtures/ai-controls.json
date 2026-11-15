@@ -1,0 +1,7 @@
+{
+  "treatsEvidenceAsUntrusted": false,
+  "restrictsToolAccess": false,
+  "permitsExternalWrites": true,
+  "requiresHumanApprovalForWrites": false,
+  "sendsRawEvidenceToProvider": true
+}

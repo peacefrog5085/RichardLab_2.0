@@ -1,0 +1,24 @@
+{
+  "sources": [
+    {
+      "file": "ai-controls.json",
+      "id": "controls",
+      "origin": "synthetic-review",
+      "revision": "v1",
+      "kind": "ai-controls"
+    }
+  ],
+  "claims": [
+    {
+      "id": "external-write",
+      "text": "The workflow permits external writes.",
+      "citations": [
+        {
+          "source": "controls",
+          "quote": "\"permitsExternalWrites\": true",
+          "stance": "supports"
+        }
+      ]
+    }
+  ]
+}
